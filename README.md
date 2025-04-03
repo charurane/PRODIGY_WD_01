@@ -11,7 +11,7 @@ This is my personal website created using **HTML, CSS, and JavaScript**.
 4. My website is now live! 🎉  
 
 ## Live Link  
-🔗 [View My Website](https://yourusername.github.io/repository-name/)  
+🔗 [View My Website]  https://charurane.github.io/PRODIGY_WD_01/  
 
 ## How to Update  
 - If I want to **change my website**, I just **edit my files** in the repo and commit the changes.  
